@@ -1,4 +1,4 @@
-name = "offchain-sales-boilerplate-test"
+name = "offchain-sales-boilerplate"
 pages_build_output_dir = "./dist"
 
 kv_namespaces = [
